@@ -1,0 +1,55 @@
+h2, h1, h3 {
+	font-family: 'Raleway', sans-serif;
+}
+
+#yeasatiePre {
+	margin-top: 60px;
+}
+h1 {
+	background-color: none;
+}
+
+p {
+	font-family: 'Raleway', sans-serif;
+	font-weight: lighter;
+}
+
+.jumbotron {
+	background-image: url("https://i.imgur.com/R7a69Yn.jpg");
+
+}
+.parallaxName {
+	font-family: 'Work Sans', sans-serif;
+	color: black;
+	text-align: left;
+	font-size: 60px;
+}
+.parallaxNameIndex {
+	color: white;
+	text-align: left;
+	font-size: 60px;
+}
+.parallaxText {
+	font-family: 'Work Sans', sans-serif;
+	color: black;
+	text-align: left;
+}
+
+.navbar {
+	background-color: none;
+}
+
+.nav-tabs {
+	background-color: none;
+}
+
+.navText {
+	font-family: 'Raleway', sans-serif;
+}
+	
+.view {
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	background-attachment: fixed;
+	background-position: center;
+}	
